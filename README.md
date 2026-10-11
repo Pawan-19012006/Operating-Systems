@@ -1,4 +1,4 @@
-# Operating Systems --- Placement Preparation
+# Operating Systems
 
 A day-by-day learning repository documenting my Operating Systems
 preparation for technical interviews and placements.
@@ -60,15 +60,6 @@ Following the **Operating Systems Placements Course** on YouTube.
 29. Page Replacement Algorithms and LRU
 30. Thrashing
 
-## Daily Learning Notes
-
-Daily notes will contain explanations of concepts studied, examples,
-important observations, and placement interview takeaways.
-
--   [Day 01 --- Process Management, PCB, Context Switching and CPU
-    Scheduling](https://chatgpt.com/g/g-p-6aad4ec9e0908191b1b3cefb58c9150a-learning/c/notes/Day-01.md)
--   Day 02 --- To be added
--   Day 03 --- To be added
 
 ## Repository Structure
 
