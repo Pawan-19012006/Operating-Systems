@@ -1,7 +1,0 @@
-#!/bin/bash
-while [ true ]
-do
-	echo "Hello Pawan"
-	sleep 1
-done
-
